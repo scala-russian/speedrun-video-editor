@@ -14,4 +14,5 @@ Takes a file with list of commands and process video correspondingly. See `speed
 ### !Important
 It's a minimalistic application and suppose a correct list of commands. Right now there are no
 * Check of time interval order. For example `02:40 - 01:59` is not reversed or error is printed.
+* Check and set [correct encoding](https://support.google.com/youtube/answer/1722171?hl=en) if needed. 
 * ...
